@@ -74,4 +74,21 @@ LOL|$23|8
 
 ![壁纸截图](C://Users//lenovo//Desktop//x.png)
 
+#### 插入代码片段
+
+```c
+#include<stdio.h>
+{
+	while(1);
+	return 0;
+}
+```
+
+```bash
+	cd/usr/bin
+	echo "标准输出"
+
+```
+
+
 
